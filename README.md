@@ -68,7 +68,7 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 4. Tampilan Kontak
 <img width="1919" height="939" alt="Screenshot 2026-04-09 003730" src="https://github.com/user-attachments/assets/7181f64a-3069-412a-92a9-ee47085e43ea" />
 
-### Halaman Admin
+## Halaman Admin
 
 1. Halaman Login
 
