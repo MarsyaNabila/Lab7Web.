@@ -1,4 +1,4 @@
-## PHP Framework (Codeigniter) 1-5
+## PHP Framework (Codeigniter) 
 
 Nama: Marsya Nabial Putri
 
@@ -52,7 +52,7 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 
 ## Scerenshoot Hasil Pratikum
 
-1. Tampilan Home
+1. Tampilan Home User
 
 <img width="1913" height="938" alt="Screenshot 2026-04-09 003012" src="https://github.com/user-attachments/assets/f27c105f-bf79-4018-917b-819e21fea5a5" />
 
@@ -68,6 +68,25 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 4. Tampilan Kontak
 <img width="1919" height="939" alt="Screenshot 2026-04-09 003730" src="https://github.com/user-attachments/assets/7181f64a-3069-412a-92a9-ee47085e43ea" />
 
-### 2. Halaman Dahboard Admin
+### Halaman Admin
+
+1. Halaman Login
+
+2. Halaman Dahboard Admin
+<img width="1916" height="1017" alt="Screenshot 2026-04-16 131335" src="https://github.com/user-attachments/assets/a75e3f14-2d3c-4f28-bf94-44804eb529a9" />
+
+3. Tampilan Artikel
+<img width="1919" height="1019" alt="Screenshot 2026-04-16 131435" src="https://github.com/user-attachments/assets/4beb25e2-6d04-46cf-ad9f-84a87c9d468a" />
+
+4. Tampilan Ubah Artikel
+<img width="1919" height="845" alt="Screenshot 2026-04-16 131528" src="https://github.com/user-attachments/assets/a1aeb712-4fbd-4185-a46c-734c98669a8e" />
+
+5, Fitur Pencarian 
+<img width="456" height="325" alt="Screenshot 2026-04-16 131609" src="https://github.com/user-attachments/assets/c8199b7e-95a6-4d38-906a-8ebe03fd27e1" />
+
+
+
+
+
 
 
