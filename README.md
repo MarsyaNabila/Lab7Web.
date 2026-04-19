@@ -71,14 +71,16 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 ## Halaman Admin
 
 1. Halaman Login
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/bd66b929-4c83-4630-99e9-4a01c7828eed" />
 
-2. Halaman Dahboard Admin
+
+3. Halaman Dahboard Admin
 <img width="1916" height="1017" alt="Screenshot 2026-04-16 131335" src="https://github.com/user-attachments/assets/a75e3f14-2d3c-4f28-bf94-44804eb529a9" />
 
-3. Tampilan Artikel
+4. Tampilan Artikel
 <img width="1919" height="1019" alt="Screenshot 2026-04-16 131435" src="https://github.com/user-attachments/assets/4beb25e2-6d04-46cf-ad9f-84a87c9d468a" />
 
-4. Tampilan Ubah Artikel
+5. Tampilan Ubah Artikel
 <img width="1919" height="845" alt="Screenshot 2026-04-16 131528" src="https://github.com/user-attachments/assets/a1aeb712-4fbd-4185-a46c-734c98669a8e" />
 
 5, Fitur Pencarian 
