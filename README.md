@@ -1,4 +1,4 @@
-## PHP Framework (Codeigniter) 
+# PHP Framework (Codeigniter) 1 - 5
 
 Nama: Marsya Nabial Putri
 
@@ -85,6 +85,11 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 
 5, Fitur Pencarian 
 <img width="456" height="325" alt="Screenshot 2026-04-16 131609" src="https://github.com/user-attachments/assets/c8199b7e-95a6-4d38-906a-8ebe03fd27e1" />
+
+
+# Praktikum 6: Relasi Tabel dan Query Builder
+
+# Praktikum 6: Upload File Gambar (Lanjutan)
 
 
 
