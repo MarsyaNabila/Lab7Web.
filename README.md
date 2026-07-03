@@ -87,7 +87,7 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 <img width="456" height="325" alt="Screenshot 2026-04-16 131609" src="https://github.com/user-attachments/assets/c8199b7e-95a6-4d38-906a-8ebe03fd27e1" />
 
 
-# 6-14
+# Scerenshoot Hasil Pratikum 6-14
 
 <img width="955" height="470" alt="Screenshot 2026-07-04 004042" src="https://github.com/user-attachments/assets/c7b7676d-17f4-4cfc-9a4b-80e756cd4dc2" />
 
