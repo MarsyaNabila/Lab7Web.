@@ -91,7 +91,24 @@ Sistem ini mencakup dashboard admin fungsional dengan fitur sebagai berikut:
 
 # Praktikum 6: Upload File Gambar (Lanjutan)
 
+<img width="955" height="470" alt="Screenshot 2026-07-04 004042" src="https://github.com/user-attachments/assets/c7b7676d-17f4-4cfc-9a4b-80e756cd4dc2" />
 
+<img width="958" height="467" alt="Screenshot 2026-07-04 004111" src="https://github.com/user-attachments/assets/92a2692b-7dd8-4355-a52b-8de5a111cb16" />
+
+<img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/3ec7e131-9e05-49b1-837e-9988db8b8617" />
+
+<img width="953" height="468" alt="image" src="https://github.com/user-attachments/assets/e7e8909d-871f-41a5-8f61-c4383de961f4" />
+
+<img width="955" height="470" alt="image" src="https://github.com/user-attachments/assets/5b011a08-c6fc-41fa-aa19-5f085eeeee1c" />
+
+<img width="955" height="464" alt="image" src="https://github.com/user-attachments/assets/9ac8d5f0-23fd-4fe7-99ba-b40986306ec9" />
+
+
+<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/4732bbb0-7e61-439c-aba5-821d686cea7f" />
+
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/f384365b-1488-41fc-bad5-7514ee93aa90" />
+
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/016f4640-fe0c-49be-a78c-ea9ae9825e25" />
 
 
 
