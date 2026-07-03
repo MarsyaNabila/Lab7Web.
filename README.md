@@ -1,4 +1,4 @@
-# PHP Framework (Codeigniter) 1 - 5
+# Pratikum 1-14
 
 Nama: Marsya Nabial Putri
 
